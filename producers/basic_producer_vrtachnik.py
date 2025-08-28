@@ -1,5 +1,5 @@
 """
-basic_generator_vrtachnik.py
+basic_producer_vrtachnik.py
 
 Generate some streaming buzz messages. 
 """
